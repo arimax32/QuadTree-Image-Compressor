@@ -20,5 +20,5 @@ add your Image path in  path = "file_path" variable and see the below images sav
 
 <h2>Quad Tree Structure<h2>  
 <p>
-<img src="QuadTree/images/QuadTreeStructure.jpg" width="500" ></img>
+<img src="QuadTree/images/QuadTree_Structure.jpg" width="500" ></img>
 </p>
