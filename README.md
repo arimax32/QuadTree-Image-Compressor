@@ -1,7 +1,7 @@
 # QuadTree-Image-Compressor
 Compress Images using Quad Trees Efficiently
 
-add your Image path in  path = "file_path" variable and see the below images save in the same directory
+add your Image path in  path = "file_path" variable in main and see the below images save in the same directory
 
 <h2>Original Image<h2>  
 <p>
