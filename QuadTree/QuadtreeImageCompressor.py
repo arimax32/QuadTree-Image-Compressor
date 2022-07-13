@@ -87,7 +87,7 @@ def renderCompressedImage(leafNodes,w,h):
 
     image.save("CompressedImage.jpg")
     tree_structure_image.save("QuadTreeRender.jpg")
-    image.save("QuadTreeStructure.jpg")
+    tree_image.save("QuadTreeStructure.jpg")
 
 def main():
     path = r"file_path"
