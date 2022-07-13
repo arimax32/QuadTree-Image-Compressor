@@ -90,7 +90,8 @@ def renderCompressedImage(leafNodes,w,h):
     image.save("QuadTreeStructure.jpg")
 
 def main():
-    image = Image.open(r"C:\Users\Aritra Datta\Documents\BGIM\BIM_4.jpg")
+    path = r"file_path"
+    image = Image.open(path)
     l,t,r,b = image.getbbox()
     leaf_nodes = []
     quadtree(image,leaf_nodes,l,t,r,b,0)
